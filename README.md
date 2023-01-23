@@ -10,12 +10,13 @@ Pretendo pegar intimidade com a plataforma aos pouquinhos, postando projetos de 
 
 Vocês podem me achar não só por aqui mas em outras plataformas sociais:
 
-Linkedin: https://br.linkedin.com/in/douglas-klem-784599260?trk=people-guest_people_search-card
-Instagram: @klem.doug
-Twitter: @KlemDouglas
-Discord: KlemDoug #5889
-Whatsapp/Telegram: +55 21965066297
+- Linkedin: https://br.linkedin.com/in/douglas-klem-784599260?trk=people-guest_people_search-card
+- Instagram: @klem.doug
+- Twitter: @KlemDouglas
+- Discord: KlemDoug #5889
+- Whatsapp/Telegram: +55 21965066297
 
+*************************
 É isso. Nos vemos por aí! 
 *************************
 
