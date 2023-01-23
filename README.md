@@ -10,7 +10,7 @@ Pretendo pegar intimidade com a plataforma aos pouquinhos, postando projetos de 
 
 Vocês podem me achar não só por aqui mas em outras plataformas sociais:
 
-- Linkedin: https://br.linkedin.com/in/douglas-klem-784599260?trk=people-guest_people_search-card
+- Linkedin: https://www.linkedin.com/in/douglas-klem-784599260/
 - Instagram: @klem.doug
 - Twitter: @KlemDouglas
 - Discord: KlemDoug #5889
