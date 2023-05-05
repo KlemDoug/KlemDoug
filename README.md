@@ -1,22 +1,21 @@
+Olá Githubbers!👋 Tudo bom?😄
 ****************************
-Olá Githubbers! 😄 Tudo bom?
-****************************
 
-Essa é minha primeira versão de apresentação à comunidade Github.
+:octocat:  Meu nome é Douglas Klem, mas pode me chamar simplesmente por Doug. Ou Klem.
 
-Meu nome é Douglas Klem, mas pode me chamar simplesmente por Doug. Ou Klem. Estou ingressando na área de Análise de Dados, estudando programação Python, SQL e Power BI pela parceria SENAC/Resilia.
+:bar_chart:  Sou um analista de dados multidisciplinar e extremamente curioso dentro da área de Ciências de Dados; nascido e morando atualmente no Rio de Janeiro, Brasil. 
 
-Pretendo pegar intimidade com a plataforma aos pouquinhos, postando projetos de aula enquanto aprendo a linguagem. Um início singelo pra ter essa interação, essa troca de ideias tão necessária.
+:pencil2: Estou atualmente finalizando meu aperfeiçoamento em **Python, SQL, Database Systems, Pandas/Numpy/Matplotlib, Dashboard e Business Intelligence**, além das **soft skills** ligadas a **metodologias ágeis** para gestão de projetos.
 
-Vocês podem me achar não só por aqui mas em outras plataformas sociais:
+👯 Procuro no momento por oportunidades em banco de talentos e colaboração em projetos relacionados a minha área, preferencialmente complementando **Machine Learning, LGPD, Cybersecurity e Finances**.
 
-- Linkedin: https://www.linkedin.com/in/douglas-klem-784599260/
-- Instagram: @klem.doug
-- Twitter: @KlemDouglas
-- Discord: KlemDoug #5889
-- Whatsapp/Telegram: +55 21965066297
+🌱 Pretendo pegar intimidade com a plataforma aos pouquinhos, postando projetos de aula e aprimorando-os conforme me aprofundo no **livecoding**.
+
+:mag_right: Vocês podem me achar não só por aqui mas em outras plataformas sociais já linkadas nesse mesmo perfil. 
+
+Bora trocar uma ideia e fortalecer o processo! :muscle: :nail_care: :ok_hand:
 
 *************************
-É isso. Nos vemos por aí! 
+É isso. Nos vemos por aí! 👾 👽 💖 
 *************************
 
