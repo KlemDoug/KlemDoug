@@ -2,7 +2,7 @@
 <h1 align="center"> :chart_with_upwards_trend: BUSINESS INTELLIGENCE ANALYST :bar_chart: </h1>
 <p align="right">
     Tenho 31 anos, sou Analista de Dados Júnior, trabalhando como freelancer<br>
-  dentro da área de Ciências de Dados; residindo no Rio de Janeiro, Brasil. <br><br><br>
+  dentro da área de Ciências de Dados; residindo no Rio de Janeiro, Brasil. <br><br>
 </p>
 
 :pencil2: Prestes a finalizar o curso intensivo em Análise de Dados pelo SENAC/Resilia, tendo **Python, SQL, Pandas/Numpy/Matplotlib/Seaborn, Business Intelligence (Power BI/Tableau) e Metodologias Ágeis (Scrum/Kanban)** no cerne das ferramentas de trabalho.
